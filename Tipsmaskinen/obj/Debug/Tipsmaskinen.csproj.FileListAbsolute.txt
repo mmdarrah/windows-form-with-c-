@@ -1,0 +1,10 @@
+C:\Users\mmdar\source\repos\Tipsmaskinen\Tipsmaskinen\bin\Debug\Tipsmaskinen.exe.config
+C:\Users\mmdar\source\repos\Tipsmaskinen\Tipsmaskinen\bin\Debug\Tipsmaskinen.exe
+C:\Users\mmdar\source\repos\Tipsmaskinen\Tipsmaskinen\bin\Debug\Tipsmaskinen.pdb
+C:\Users\mmdar\source\repos\Tipsmaskinen\Tipsmaskinen\obj\Debug\Tipsmaskinen.csprojAssemblyReference.cache
+C:\Users\mmdar\source\repos\Tipsmaskinen\Tipsmaskinen\obj\Debug\Tipsmaskinen.Form1.resources
+C:\Users\mmdar\source\repos\Tipsmaskinen\Tipsmaskinen\obj\Debug\Tipsmaskinen.Properties.Resources.resources
+C:\Users\mmdar\source\repos\Tipsmaskinen\Tipsmaskinen\obj\Debug\Tipsmaskinen.csproj.GenerateResource.cache
+C:\Users\mmdar\source\repos\Tipsmaskinen\Tipsmaskinen\obj\Debug\Tipsmaskinen.csproj.CoreCompileInputs.cache
+C:\Users\mmdar\source\repos\Tipsmaskinen\Tipsmaskinen\obj\Debug\Tipsmaskinen.exe
+C:\Users\mmdar\source\repos\Tipsmaskinen\Tipsmaskinen\obj\Debug\Tipsmaskinen.pdb
